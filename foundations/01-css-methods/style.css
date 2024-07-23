@@ -1,5 +1,7 @@
 div {
-    color: red;
-    background-color: aliceblue;
-    font-size: large;
+    color: white;
+    background-color: red;
+    font-size: x-large;
+    font-weight: 600;
+    text-align: center;
 }
