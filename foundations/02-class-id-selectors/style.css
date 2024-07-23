@@ -1,0 +1,22 @@
+.odd {
+    color: black;
+    background-color: rgb(265, 167, 167);
+    font-size: 32px;
+}
+
+#p3 {
+    font-weight: 500;
+    font-size: 40px;
+}
+
+#d2 {
+    color: blue;
+    font-size: 64px;
+    font-weight: 500;
+}
+
+#d4 {
+    background-color: rgb(128, 255, 128);
+    font-size: 32px;
+    font-weight: bold;
+}
